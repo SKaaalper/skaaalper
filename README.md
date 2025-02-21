@@ -49,7 +49,4 @@
   </a>
 </p>
 
----
-<p align="center">
-  🔹 <strong>This profile is auto-updated using GitHub Actions!</strong>
-</p>
+
