@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm SKaaalper! 👋  
+## Hi there, I'm SKaaalper! 👋  
 
 🚀 **Blockchain Explorer | Open-source Contributer | Team Cubao Farmers**  
 
