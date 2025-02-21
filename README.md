@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  🚀 <strong>Blockchain Explorer | Open-source Contributor | Team Cubao Farmers</strong>
+  🚀 <strong>
+    <span style="color:red;">Blockchain Explorer</span> | 
+    <span style="color:yellow;">Open-source Contributor</span> | 
+    <span style="color:green;">Team Cubao Farmers</span>
+  </strong>
 </p>
 
 ## 🔧 Technologies & Tools  
