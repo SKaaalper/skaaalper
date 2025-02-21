@@ -24,7 +24,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
 </p>
 
-## 📫 Connect with Me  
+<p align="center">
+  <strong>
+    <span style="color:#FF5733;">🔗 Connect</span> 
+    <span style="color:#F7D01A;">With</span> 
+    <span style="color:#2EF75B;">Me</span>
+  </strong>
+</p>
+
 <p align="center">
   <a href="https://x.com/_TheTinapa">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
