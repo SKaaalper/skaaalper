@@ -2,12 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+SKaaalper!+%F0%9F%91%8B" />
 </p>
 
-<p align="center">
-  🚀 <strong>
-    <span style="color:red;">Blockchain Explorer</span> | 
-    <span style="color:yellow;">Open-source Contributor</span> | 
-    <span style="color:green;">Team Cubao Farmers</span>
-  </strong>
+<<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF3E1100&width=435&lines=Blockchain+Explorer" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D01A&background=FF261100&width=435&lines=Open-source+Contributor" alt="Typing SVG" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF75B&background=323BFF00&width=435&lines=Team+Cubao+Farmers" alt="Typing SVG" />
+  </a>
 </p>
 
 ## 🔧 Technologies & Tools  
