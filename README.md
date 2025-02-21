@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🚀+Blockchain+Explorer+|+🟡+Open-source+Contributor+|+🟢+Team+Cubao+Farmers" alt="Typing SVG" />
-  </a>
+  <span style="color:#FF0000;">🚀 Blockchain Explorer</span> |  
+  <span style="color:#F7D01A;">🟡 Open-source Contributor</span> |  
+  <span style="color:#2EF75B;">🟢 Team Cubao Farmers</span>
 </p>
 
 ## 🔧 Technologies & Tools  
