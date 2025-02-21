@@ -14,14 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=SKaaalper&color=yellow" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKaaalper&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKaaalper&layout=compact&theme=dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
-</p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -43,6 +35,14 @@
   <a href="https://discord.gg/myprincess123">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKaaalper&show_icons=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKaaalper&layout=compact&theme=dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
 </p>
 
 
