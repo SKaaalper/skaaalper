@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <span style="color:#FF0000;">🚀 Blockchain Explorer</span> |  
-  <span style="color:#F7D01A;">🟡 Open-source Contributor</span> |  
-  <span style="color:#2EF75B;">🟢 Team Cubao Farmers</span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=🚀+Blockchain+Explorer+|+🟡+Open-source+Contributor+|+🟢+Team+Cubao+Farmers" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ## 🔧 Technologies & Tools  
 <p align="center">
@@ -24,13 +25,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
 </p>
 
-<p align="center">
-  <strong>
-    <span style="color:#FF5733;">🔗 Connect</span> 
-    <span style="color:#F7D01A;">With</span> 
-    <span style="color:#2EF75B;">Me</span>
-  </strong>
-</p>
+
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="https://x.com/_TheTinapa">
