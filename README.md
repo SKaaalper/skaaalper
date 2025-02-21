@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKaaalper&show_icons=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKaaalper&layout=compact&theme=dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&width=800&height=60&lines=🚀+Blockchain+Explorer+|+🟡+Open-source+Contributor+|+🟢+Team+Cubao+Farmers" alt="Typing SVG" />
   </a>
@@ -36,13 +44,3 @@
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKaaalper&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKaaalper&layout=compact&theme=dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKaaalper&theme=dark" />
-</p>
-
-
