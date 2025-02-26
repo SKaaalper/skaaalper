@@ -34,13 +34,8 @@
   <a href="https://x.com/_TheTinapa">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/skaaalper">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+
   <a href="https://t.me/HappyFellar">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/myprincess123">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+
